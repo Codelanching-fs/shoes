@@ -6,7 +6,7 @@
     price:35,
     img:"https://res.cloudinary.com/dszpgzvxg/image/upload/v1624464588/shite-shoe-removebg-preview_okyysc.png",
     qty:1,
-  },
+  }
    {
     id:2,
     name:"White Sneaker",
@@ -14,7 +14,7 @@
     price:65,
     img:"https://res.cloudinary.com/dszpgzvxg/image/upload/v1624464575/black-shoe-removebg-preview_lamhfd.png",
     qty:1,
-  },
+  }
    {
     id:3,
     name:"Gray Sneaker",
