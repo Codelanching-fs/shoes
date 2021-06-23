@@ -1,5 +1,5 @@
 {
-    "products":[  
+
         {
             "id":1,
             "name":"Black Sneaker",
@@ -24,5 +24,5 @@
             "img":"https://res.cloudinary.com/dszpgzvxg/image/upload/v1624464585/gray-shoe-removebg-preview_d4vvfi.png",
             "qty":1,
           }
-       ]
+
 }
